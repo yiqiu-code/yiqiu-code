@@ -34,13 +34,6 @@
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
-### 📊 GitHub 统计
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yiqiu-code&show_icons=true&theme=radical)
-
-### 🔥 最常使用的语言
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yiqiu-code&layout=compact&theme=radical)
-
-
 ### 📫 联系我
 - 📧 Email: 1464074871@qq.com
 
