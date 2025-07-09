@@ -34,8 +34,6 @@
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
 
-### 🐍 贪吃蛇游戏 - 吃掉我的贡献！
-![Snake animation](https://raw.githubusercontent.com/yiqiu-code/yiqiu-code/output/github-contribution-grid-snake.svg)
 
 ### 📫 联系我
 - 📧 Email: 1464074871@qq.com
